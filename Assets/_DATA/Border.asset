@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5b8923bee7e26840bc5bfb3386d82fa, type: 3}
+  m_Name: Border
+  m_EditorClassIdentifier: 
+  tileList:
+  - {fileID: 11400000, guid: 13be9f8f074af7643bd7740504b8ed66, type: 2}
+  - {fileID: 11400000, guid: fb2cf055aa598364494e19a269e5d0b8, type: 2}
+  - {fileID: 11400000, guid: aebc232a5de169d4bb8c02a0b56ea38e, type: 2}
+  - {fileID: 11400000, guid: effb2b3666bcff7419649a01dd74ff9f, type: 2}
+  - {fileID: 11400000, guid: 97040bea3ba781b4fac11023e7074315, type: 2}
+  - {fileID: 11400000, guid: 8b850f1b4fe43c648873970c7e739329, type: 2}
+  - {fileID: 11400000, guid: 1ff20b4ee96db8e459e0178ba23e4401, type: 2}
+  - {fileID: 11400000, guid: d684087e1d76b904a8cd64dc4fece944, type: 2}
+  type: 1
